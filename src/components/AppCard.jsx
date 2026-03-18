@@ -16,6 +16,10 @@ const iconMap = {
   'math-kids': '➕',
   'double': '🔵',
   'read-clock': '🕐',
+  'piano-princess': '🎹',
+  'soduku': '🔢',
+  'jumping-jack': '🏃',
+  'popit': '🦄',
 };
 
 export default function AppCard({ app }) {

@@ -167,6 +167,25 @@
       }
     },
     {
+      "id": "piano-princess-web",
+      "name": {
+        "en": "Piano Princess",
+        "he": "נסיכת הפסנתר"
+      },
+      "description": {
+        "en": "Do your daily piano practice",
+        "he": "תרגלו באופן יומי נגינה קסומה על פסנתר"
+      },
+      "category": "web",
+      "subcategory": "educational",
+      "icon": "piano-princess",
+      "downloadUrl": "https://piano-princess.vercel.app/",
+      "madeBy": {
+        "en": "Made by Oron Ben Zvi",
+        "he": "נוצר ע\"י אורון בן צבי "
+      }
+    },
+    {
       "id": "double-web",
       "name": {
         "en": "Double",
@@ -183,6 +202,63 @@
       "madeBy": {
         "en": "Made by Gil Sela",
         "he": "נוצר ע\"י גיל סלע"
+      }
+    },
+    {
+      "id": "soduku-web",
+      "name": {
+        "en": "Soduken",
+        "he": "סודוקו"
+      },
+      "description": {
+        "en": "A cozy Sudoku puzzle game",
+        "he": "משחק סודוקו רגוע ומרגיע"
+      },
+      "category": "web",
+      "subcategory": "fun",
+      "icon": "soduku",
+      "downloadUrl": "https://soduken.vercel.app/",
+      "madeBy": {
+        "en": "Made by Oron Ben Zvi",
+        "he": "נוצר ע\"י אורון בן צבי"
+      }
+    },
+    {
+      "id": "jumping-jack-web",
+      "name": {
+        "en": "Jumping Jack",
+        "he": "ג׳ק הקופץ"
+      },
+      "description": {
+        "en": "Jump as much as you can",
+        "he": "קיפצו הכי גבוה שתוכלו"
+      },
+      "category": "web",
+      "subcategory": "fun",
+      "icon": "jumping-jack",
+      "downloadUrl": "https://oronbz.itch.io/jumping-jack",
+      "madeBy": {
+        "en": "Made by Oron Ben Zvi & David Chen",
+        "he": "נוצר ע\"י אורון בן צבי ודוד חן"
+      }
+    },
+    {
+      "id": "popit-web",
+      "name": {
+        "en": "Pop It",
+        "he": "פופיט"
+      },
+      "description": {
+        "en": "Pop all bubbles",
+        "he": "פוצצו את כל הבועות"
+      },
+      "category": "web",
+      "subcategory": "fun",
+      "icon": "popit",
+      "downloadUrl": "https://oronbz.itch.io/pop-it",
+      "madeBy": {
+        "en": "Made by Oron Ben Zvi",
+        "he": "נוצר ע\"י אורון בן צבי "
       }
     }
   ]
