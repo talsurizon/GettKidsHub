@@ -1,0 +1,124 @@
+{
+  "apps": [
+    {
+      "id": "math-adventure",
+      "name": { "en": "Math Adventure", "he": "הרפתקת מתמטיקה" },
+      "description": { "en": "Learn math through exciting puzzles and challenges", "he": "למדו מתמטיקה דרך חידות ואתגרים מרגשים" },
+      "category": "android",
+      "subcategory": "educational",
+      "icon": "math-adventure",
+      "downloadUrl": "/apps/android/math-adventure.apk",
+      "version": "1.0.0"
+    },
+    {
+      "id": "aleph-bet-learn",
+      "name": { "en": "Aleph-Bet Learn", "he": "לומדים אלף-בית" },
+      "description": { "en": "Interactive Hebrew alphabet learning for kids", "he": "למידת האלף-בית העברי באופן אינטראקטיבי" },
+      "category": "android",
+      "subcategory": "educational",
+      "icon": "aleph-bet",
+      "downloadUrl": "/apps/android/aleph-bet-learn.apk",
+      "version": "1.2.0"
+    },
+    {
+      "id": "space-runner",
+      "name": { "en": "Space Runner", "he": "רץ בחלל" },
+      "description": { "en": "Run through space, dodge asteroids, collect stars!", "he": "רוצו בחלל, התחמקו מאסטרואידים, אספו כוכבים!" },
+      "category": "android",
+      "subcategory": "fun",
+      "icon": "space-runner",
+      "downloadUrl": "/apps/android/space-runner.apk",
+      "version": "2.1.0"
+    },
+    {
+      "id": "bubble-pop",
+      "name": { "en": "Bubble Pop", "he": "פקע בועות" },
+      "description": { "en": "Pop colorful bubbles in this relaxing game", "he": "פוצצו בועות צבעוניות במשחק המרגיע הזה" },
+      "category": "android",
+      "subcategory": "fun",
+      "icon": "bubble-pop",
+      "downloadUrl": "/apps/android/bubble-pop.apk",
+      "version": "1.5.0"
+    },
+    {
+      "id": "science-lab-ios",
+      "name": { "en": "Science Lab", "he": "מעבדת מדע" },
+      "description": { "en": "Virtual science experiments for curious minds", "he": "ניסויים מדעיים וירטואליים למוחות סקרניים" },
+      "category": "ios",
+      "subcategory": "educational",
+      "icon": "science-lab",
+      "downloadUrl": "/apps/ios/science-lab.ipa",
+      "version": "1.0.0"
+    },
+    {
+      "id": "word-wizard-ios",
+      "name": { "en": "Word Wizard", "he": "קוסם המילים" },
+      "description": { "en": "Build vocabulary with magical word games", "he": "הרחיבו אוצר מילים עם משחקי מילים קסומים" },
+      "category": "ios",
+      "subcategory": "educational",
+      "icon": "word-wizard",
+      "downloadUrl": "/apps/ios/word-wizard.ipa",
+      "version": "1.3.0"
+    },
+    {
+      "id": "puzzle-quest-ios",
+      "name": { "en": "Puzzle Quest", "he": "מסע הפאזלים" },
+      "description": { "en": "Solve puzzles on an epic adventure", "he": "פתרו פאזלים בהרפתקה אפית" },
+      "category": "ios",
+      "subcategory": "fun",
+      "icon": "puzzle-quest",
+      "downloadUrl": "/apps/ios/puzzle-quest.ipa",
+      "version": "2.0.0"
+    },
+    {
+      "id": "color-splash-ios",
+      "name": { "en": "Color Splash", "he": "התזת צבעים" },
+      "description": { "en": "Paint and create amazing artwork", "he": "צבעו ויצרו יצירות אמנות מדהימות" },
+      "category": "ios",
+      "subcategory": "fun",
+      "icon": "color-splash",
+      "downloadUrl": "/apps/ios/color-splash.ipa",
+      "version": "1.1.0"
+    },
+    {
+      "id": "code-kids-web",
+      "name": { "en": "Code Kids", "he": "ילדים מתכנתים" },
+      "description": { "en": "Learn programming with fun visual blocks", "he": "למדו תכנות עם בלוקים חזותיים מהנים" },
+      "category": "web",
+      "subcategory": "educational",
+      "icon": "code-kids",
+      "downloadUrl": "https://codekids.example.com",
+      "version": null
+    },
+    {
+      "id": "geo-explorer-web",
+      "name": { "en": "Geo Explorer", "he": "חוקר הגיאוגרפיה" },
+      "description": { "en": "Explore the world and learn geography", "he": "חקרו את העולם ולמדו גיאוגרפיה" },
+      "category": "web",
+      "subcategory": "educational",
+      "icon": "geo-explorer",
+      "downloadUrl": "https://geoexplorer.example.com",
+      "version": null
+    },
+    {
+      "id": "drawing-studio-web",
+      "name": { "en": "Drawing Studio", "he": "סטודיו ציור" },
+      "description": { "en": "Draw and create art in your browser", "he": "ציירו ויצרו אומנות בדפדפן" },
+      "category": "web",
+      "subcategory": "fun",
+      "icon": "drawing-studio",
+      "downloadUrl": "https://drawingstudio.example.com",
+      "version": null
+    },
+    {
+      "id": "music-maker-web",
+      "name": { "en": "Music Maker", "he": "יוצר המוזיקה" },
+      "description": { "en": "Create your own music and beats", "he": "צרו מוזיקה וביטים משלכם" },
+      "category": "web",
+      "subcategory": "fun",
+      "icon": "music-maker",
+      "downloadUrl": "https://musicmaker.example.com",
+      "version": null
+    }
+  ]
+}

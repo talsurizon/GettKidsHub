@@ -1,0 +1,33 @@
+{
+  "header": {
+    "title": "GettKids Hub",
+    "subtitle": "Your apps, all in one place!"
+  },
+  "home": {
+    "welcome": "Welcome! 👋",
+    "chooseCategory": "Choose a category to explore:",
+    "android": "Android",
+    "ios": "iOS",
+    "web": "Web"
+  },
+  "category": {
+    "fun": "Fun 🎮",
+    "educational": "Educational 📚",
+    "download": "Download",
+    "open": "Open",
+    "version": "v{{version}}",
+    "backHome": "← Back to Home",
+    "noApps": "No apps available yet. Check back soon!"
+  },
+  "footer": {
+    "madeWith": "Made with ❤️ for GettKids"
+  },
+  "language": {
+    "switch": "עב"
+  },
+  "notFound": {
+    "title": "Oops! Page not found",
+    "message": "The page you're looking for doesn't exist.",
+    "backHome": "Go Home"
+  }
+}

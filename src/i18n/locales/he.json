@@ -1,0 +1,33 @@
+{
+  "header": {
+    "title": "GettKids Hub",
+    "subtitle": "האפליקציות שלכם, הכל במקום אחד!"
+  },
+  "home": {
+    "welcome": "!שלום 👋",
+    "chooseCategory": ":בחרו קטגוריה לחקירה",
+    "android": "אנדרואיד",
+    "ios": "iOS",
+    "web": "אינטרנט"
+  },
+  "category": {
+    "fun": "כיף 🎮",
+    "educational": "לימודי 📚",
+    "download": "הורדה",
+    "open": "פתיחה",
+    "version": "v{{version}}",
+    "backHome": "חזרה לדף הבית →",
+    "noApps": "אין עדיין אפליקציות זמינות. בדקו שוב בקרוב!"
+  },
+  "footer": {
+    "madeWith": "נוצר באהבה ❤️ עבור GettKids"
+  },
+  "language": {
+    "switch": "EN"
+  },
+  "notFound": {
+    "title": "אופס! הדף לא נמצא",
+    "message": "הדף שאתם מחפשים לא קיים.",
+    "backHome": "לדף הבית"
+  }
+}
