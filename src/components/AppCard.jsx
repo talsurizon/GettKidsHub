@@ -15,6 +15,7 @@ const iconMap = {
   'music-maker': '🎵',
   'math-kids': '➕',
   'double': '🔵',
+  'read-clock': '🕐',
 };
 
 export default function AppCard({ app }) {
@@ -52,9 +53,9 @@ export default function AppCard({ app }) {
         <p className="text-sm text-slate-400 m-0 line-clamp-1">
           {app.description[lang] || app.description.en}
         </p>
-        {app.version && (
+        {app.madeBy && (
           <span className="text-xs text-slate-500">
-            {t('category.version', { version: app.version })}
+            {(typeof app.madeBy === 'object' ? (app.madeBy[lang] || app.madeBy.en) : app.madeBy)}
           </span>
         )}
       </div>

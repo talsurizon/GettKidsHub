@@ -2,103 +2,188 @@
   "apps": [
     {
       "id": "math-adventure",
-      "name": { "en": "Math Adventure", "he": "הרפתקת מתמטיקה" },
-      "description": { "en": "Learn math through exciting puzzles and challenges", "he": "למדו מתמטיקה דרך חידות ואתגרים מרגשים" },
+      "name": {
+        "en": "Math Adventure",
+        "he": "הרפתקת מתמטיקה"
+      },
+      "description": {
+        "en": "Learn math through exciting puzzles and challenges",
+        "he": "למדו מתמטיקה דרך חידות ואתגרים מרגשים"
+      },
       "category": "android",
       "subcategory": "educational",
       "icon": "math-adventure",
       "downloadUrl": "/apps/android/math-adventure.apk",
-      "version": "1.0.0"
+      "madeBy": null
     },
     {
       "id": "aleph-bet-learn",
-      "name": { "en": "Aleph-Bet Learn", "he": "לומדים אלף-בית" },
-      "description": { "en": "Interactive Hebrew alphabet learning for kids", "he": "למידת האלף-בית העברי באופן אינטראקטיבי" },
+      "name": {
+        "en": "Aleph-Bet Learn",
+        "he": "לומדים אלף-בית"
+      },
+      "description": {
+        "en": "Interactive Hebrew alphabet learning for kids",
+        "he": "למידת האלף-בית העברי באופן אינטראקטיבי"
+      },
       "category": "android",
       "subcategory": "educational",
       "icon": "aleph-bet",
       "downloadUrl": "/apps/android/aleph-bet-learn.apk",
-      "version": "1.2.0"
+      "madeBy": null
     },
     {
       "id": "space-runner",
-      "name": { "en": "Space Runner", "he": "רץ בחלל" },
-      "description": { "en": "Run through space, dodge asteroids, collect stars!", "he": "רוצו בחלל, התחמקו מאסטרואידים, אספו כוכבים!" },
+      "name": {
+        "en": "Space Runner",
+        "he": "רץ בחלל"
+      },
+      "description": {
+        "en": "Run through space, dodge asteroids, collect stars!",
+        "he": "רוצו בחלל, התחמקו מאסטרואידים, אספו כוכבים!"
+      },
       "category": "android",
       "subcategory": "fun",
       "icon": "space-runner",
       "downloadUrl": "/apps/android/space-runner.apk",
-      "version": "2.1.0"
+      "madeBy": null
     },
     {
       "id": "bubble-pop",
-      "name": { "en": "Bubble Pop", "he": "פקע בועות" },
-      "description": { "en": "Pop colorful bubbles in this relaxing game", "he": "פוצצו בועות צבעוניות במשחק המרגיע הזה" },
+      "name": {
+        "en": "Bubble Pop",
+        "he": "פקע בועות"
+      },
+      "description": {
+        "en": "Pop colorful bubbles in this relaxing game",
+        "he": "פוצצו בועות צבעוניות במשחק המרגיע הזה"
+      },
       "category": "android",
       "subcategory": "fun",
       "icon": "bubble-pop",
       "downloadUrl": "/apps/android/bubble-pop.apk",
-      "version": "1.5.0"
+      "madeBy": null
     },
     {
       "id": "science-lab-ios",
-      "name": { "en": "Science Lab", "he": "מעבדת מדע" },
-      "description": { "en": "Virtual science experiments for curious minds", "he": "ניסויים מדעיים וירטואליים למוחות סקרניים" },
+      "name": {
+        "en": "Science Lab",
+        "he": "מעבדת מדע"
+      },
+      "description": {
+        "en": "Virtual science experiments for curious minds",
+        "he": "ניסויים מדעיים וירטואליים למוחות סקרניים"
+      },
       "category": "ios",
       "subcategory": "educational",
       "icon": "science-lab",
       "downloadUrl": "/apps/ios/science-lab.ipa",
-      "version": "1.0.0"
+      "madeBy": null
     },
     {
       "id": "word-wizard-ios",
-      "name": { "en": "Word Wizard", "he": "קוסם המילים" },
-      "description": { "en": "Build vocabulary with magical word games", "he": "הרחיבו אוצר מילים עם משחקי מילים קסומים" },
+      "name": {
+        "en": "Word Wizard",
+        "he": "קוסם המילים"
+      },
+      "description": {
+        "en": "Build vocabulary with magical word games",
+        "he": "הרחיבו אוצר מילים עם משחקי מילים קסומים"
+      },
       "category": "ios",
       "subcategory": "educational",
       "icon": "word-wizard",
       "downloadUrl": "/apps/ios/word-wizard.ipa",
-      "version": "1.3.0"
+      "madeBy": null
     },
     {
       "id": "puzzle-quest-ios",
-      "name": { "en": "Puzzle Quest", "he": "מסע הפאזלים" },
-      "description": { "en": "Solve puzzles on an epic adventure", "he": "פתרו פאזלים בהרפתקה אפית" },
+      "name": {
+        "en": "Puzzle Quest",
+        "he": "מסע הפאזלים"
+      },
+      "description": {
+        "en": "Solve puzzles on an epic adventure",
+        "he": "פתרו פאזלים בהרפתקה אפית"
+      },
       "category": "ios",
       "subcategory": "fun",
       "icon": "puzzle-quest",
       "downloadUrl": "/apps/ios/puzzle-quest.ipa",
-      "version": "2.0.0"
+      "madeBy": null
     },
     {
       "id": "color-splash-ios",
-      "name": { "en": "Color Splash", "he": "התזת צבעים" },
-      "description": { "en": "Paint and create amazing artwork", "he": "צבעו ויצרו יצירות אמנות מדהימות" },
+      "name": {
+        "en": "Color Splash",
+        "he": "התזת צבעים"
+      },
+      "description": {
+        "en": "Paint and create amazing artwork",
+        "he": "צבעו ויצרו יצירות אמנות מדהימות"
+      },
       "category": "ios",
       "subcategory": "fun",
       "icon": "color-splash",
       "downloadUrl": "/apps/ios/color-splash.ipa",
-      "version": "1.1.0"
+      "madeBy": null
     },
     {
       "id": "math-kids-web",
-      "name": { "en": "Math for all", "he": "מתמטיקה לכל הכיתות" },
-      "description": { "en": "Learn math for all levels", "he": "למדו מתמטיקה לפי הרמה המתאימה לכם" },
+      "name": {
+        "en": "Math for all",
+        "he": "מתמטיקה לכל הכיתות"
+      },
+      "description": {
+        "en": "Learn math for all levels",
+        "he": "למדו מתמטיקה לפי הרמה המתאימה לכם"
+      },
       "category": "web",
       "subcategory": "educational",
       "icon": "math-kids",
       "downloadUrl": "https://app-b1357a5f.base44.app/GradeSelection",
-      "version": null
+      "madeBy": {
+        "en": "Made by Gil Sela",
+        "he": "נוצר ע\"י גיל סלע"
+      }
+    },
+    {
+      "id": "read-clock-web",
+      "name": {
+        "en": "What time is it?",
+        "he": "מה השעה עכשיו?"
+      },
+      "description": {
+        "en": "Learn how to read the clock",
+        "he": "לימדו לקרוא שעון מחוגים לגמרי בעצמכם"
+      },
+      "category": "web",
+      "subcategory": "educational",
+      "icon": "read-clock",
+      "downloadUrl": "https://script.google.com/macros/s/AKfycbwo9IwTxtldEhg7ZmmQwvoYdY-UcgnjbqEETO1_HDaEzhL3JVY4vJMCds3mPk_dfJKP_g/exec",
+      "madeBy": {
+        "en": "Made by Hila Naor",
+        "he": "נוצר ע\"י הילה נאור"
+      }
     },
     {
       "id": "double-web",
-      "name": { "en": "Double", "he": "דאבל" },
-      "description": { "en": "Play Double agains bots", "he": "שחקו דאבל וכסחו את הבוט" },
+      "name": {
+        "en": "Double",
+        "he": "דאבל"
+      },
+      "description": {
+        "en": "Play Double agains bots",
+        "he": "שחקו דאבל וכסחו את הבוט"
+      },
       "category": "web",
       "subcategory": "fun",
       "icon": "double",
       "downloadUrl": "https://aesthetic-panda-2a6de9.netlify.app/",
-      "version": null
+      "madeBy": {
+        "en": "Made by Gil Sela",
+        "he": "נוצר ע\"י גיל סלע"
+      }
     }
   ]
 }
