@@ -13,6 +13,8 @@ const iconMap = {
   'geo-explorer': '🌍',
   'drawing-studio': '🖌️',
   'music-maker': '🎵',
+  'math-kids': '➕',
+  'double': '🔵',
 };
 
 export default function AppCard({ app }) {

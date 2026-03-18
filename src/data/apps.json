@@ -81,43 +81,23 @@
       "version": "1.1.0"
     },
     {
-      "id": "code-kids-web",
-      "name": { "en": "Code Kids", "he": "ילדים מתכנתים" },
-      "description": { "en": "Learn programming with fun visual blocks", "he": "למדו תכנות עם בלוקים חזותיים מהנים" },
+      "id": "math-kids-web",
+      "name": { "en": "Math for all", "he": "מתמטיקה לכל הכיתות" },
+      "description": { "en": "Learn math for all levels", "he": "למדו מתמטיקה לפי הרמה המתאימה לכם" },
       "category": "web",
       "subcategory": "educational",
-      "icon": "code-kids",
-      "downloadUrl": "https://codekids.example.com",
+      "icon": "math-kids",
+      "downloadUrl": "https://app-b1357a5f.base44.app/GradeSelection",
       "version": null
     },
     {
-      "id": "geo-explorer-web",
-      "name": { "en": "Geo Explorer", "he": "חוקר הגיאוגרפיה" },
-      "description": { "en": "Explore the world and learn geography", "he": "חקרו את העולם ולמדו גיאוגרפיה" },
-      "category": "web",
-      "subcategory": "educational",
-      "icon": "geo-explorer",
-      "downloadUrl": "https://geoexplorer.example.com",
-      "version": null
-    },
-    {
-      "id": "drawing-studio-web",
-      "name": { "en": "Drawing Studio", "he": "סטודיו ציור" },
-      "description": { "en": "Draw and create art in your browser", "he": "ציירו ויצרו אומנות בדפדפן" },
+      "id": "double-web",
+      "name": { "en": "Double", "he": "דאבל" },
+      "description": { "en": "Play Double agains bots", "he": "שחקו דאבל וכסחו את הבוט" },
       "category": "web",
       "subcategory": "fun",
-      "icon": "drawing-studio",
-      "downloadUrl": "https://drawingstudio.example.com",
-      "version": null
-    },
-    {
-      "id": "music-maker-web",
-      "name": { "en": "Music Maker", "he": "יוצר המוזיקה" },
-      "description": { "en": "Create your own music and beats", "he": "צרו מוזיקה וביטים משלכם" },
-      "category": "web",
-      "subcategory": "fun",
-      "icon": "music-maker",
-      "downloadUrl": "https://musicmaker.example.com",
+      "icon": "double",
+      "downloadUrl": "https://aesthetic-panda-2a6de9.netlify.app/",
       "version": null
     }
   ]
