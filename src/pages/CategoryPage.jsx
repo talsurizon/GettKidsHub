@@ -11,7 +11,8 @@ const platformEmoji = {
 
 export default function CategoryPage() {
   const { platform } = useParams();
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const isRtl = i18n.language === 'he';
 
   const platformApps = appsData.apps.filter((app) => app.category === platform);
   const funApps = platformApps.filter((app) => app.subcategory === 'fun');
@@ -28,6 +29,7 @@ export default function CategoryPage() {
           className="inline-flex items-center gap-1 text-sm text-slate-400 
                      hover:text-white transition-colors no-underline mb-4"
         >
+          <span>{isRtl ? '→' : '←'}</span>
           {t('category.backHome')}
         </Link>
         <h1 className="text-3xl sm:text-4xl font-extrabold text-white flex items-center gap-3 m-0">

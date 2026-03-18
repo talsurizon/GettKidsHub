@@ -24,7 +24,6 @@ export default function AppCard({ app }) {
     if (isWeb) {
       window.open(app.downloadUrl, '_blank', 'noopener,noreferrer');
     } else {
-      // For mobile apps, trigger a download
       const link = document.createElement('a');
       link.href = import.meta.env.BASE_URL + app.downloadUrl.replace(/^\//, '');
       link.download = '';

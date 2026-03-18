@@ -4,8 +4,8 @@
     "subtitle": "האפליקציות שלכם, הכל במקום אחד!"
   },
   "home": {
-    "welcome": "!שלום 👋",
-    "chooseCategory": ":בחרו קטגוריה לחקירה",
+    "welcome": "👋 שלום!",
+    "chooseCategory": "בחרו קטגוריה לחקירה:",
     "android": "אנדרואיד",
     "ios": "iOS",
     "web": "אינטרנט"
@@ -16,7 +16,7 @@
     "download": "הורדה",
     "open": "פתיחה",
     "version": "v{{version}}",
-    "backHome": "חזרה לדף הבית →",
+    "backHome": "חזרה לדף הבית",
     "noApps": "אין עדיין אפליקציות זמינות. בדקו שוב בקרוב!"
   },
   "footer": {
