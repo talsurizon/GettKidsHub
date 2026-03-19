@@ -4,11 +4,11 @@
       "id": "math-kids-android",
       "name": {
         "en": "Math for kids",
-        "he": "לומדים חשבון"
+        "he": "×××××× ××©×××"
       },
       "description": {
         "en": "Interactive math learning for kids",
-        "he": "למידת חשבון באופן אינטראקטיבי"
+        "he": "×××××ª ××©××× ××××¤× ××× ××¨××§××××"
       },
       "category": "android",
       "subcategory": "educational",
@@ -20,11 +20,11 @@
       "id": "puzzlella-android",
       "name": {
         "en": "Puzzlella",
-        "he": "פאזלה"
+        "he": "×¤××××"
       },
       "description": {
         "en": "Solve puzzles from your own photos",
-        "he": "הרכיבו פאזלים מהתמונות שלכם"
+        "he": "××¨×××× ×¤××××× ×××ª××× ××ª ×©×××"
       },
       "category": "android",
       "subcategory": "fun",
@@ -36,11 +36,11 @@
       "id": "math-kids-web",
       "name": {
         "en": "Math for all",
-        "he": "מתמטיקה לכל הכיתות"
+        "he": "××ª××××§× ××× ××××ª××ª"
       },
       "description": {
         "en": "Learn math for all levels",
-        "he": "למדו מתמטיקה לפי הרמה המתאימה לכם"
+        "he": "×××× ××ª××××§× ××¤× ××¨×× ×××ª×××× ×××"
       },
       "category": "web",
       "subcategory": "educational",
@@ -48,18 +48,18 @@
       "downloadUrl": "https://app-b1357a5f.base44.app/GradeSelection",
       "madeBy": {
         "en": "Made by Gil Sela",
-        "he": "נוצר ע\"י גיל סלע"
+        "he": "× ××¦×¨ ×¢\"× ××× ×¡××¢"
       }
     },
     {
       "id": "read-clock-web",
       "name": {
         "en": "What time is it?",
-        "he": "מה השעה עכשיו?"
+        "he": "×× ××©×¢× ×¢××©××?"
       },
       "description": {
         "en": "Learn how to read the clock",
-        "he": "לימדו לקרוא שעון מחוגים לגמרי בעצמכם"
+        "he": "××××× ××§×¨×× ×©×¢×× ×××××× ××××¨× ××¢×¦×××"
       },
       "category": "web",
       "subcategory": "educational",
@@ -67,18 +67,18 @@
       "downloadUrl": "https://script.google.com/macros/s/AKfycbwo9IwTxtldEhg7ZmmQwvoYdY-UcgnjbqEETO1_HDaEzhL3JVY4vJMCds3mPk_dfJKP_g/exec",
       "madeBy": {
         "en": "Made by Hila Naor",
-        "he": "נוצר ע\"י הילה נאור"
+        "he": "× ××¦×¨ ×¢\"× ×××× × ×××¨"
       }
     },
     {
       "id": "piano-princess-web",
       "name": {
         "en": "Piano Princess",
-        "he": "נסיכת הפסנתר"
+        "he": "× ×¡×××ª ××¤×¡× ×ª×¨"
       },
       "description": {
         "en": "Do your daily piano practice",
-        "he": "תרגלו באופן יומי נגינה קסומה על פסנתר"
+        "he": "×ª×¨××× ××××¤× ×××× × ××× × ×§×¡××× ×¢× ×¤×¡× ×ª×¨"
       },
       "category": "web",
       "subcategory": "educational",
@@ -86,18 +86,18 @@
       "downloadUrl": "https://piano-princess.vercel.app/",
       "madeBy": {
         "en": "Made by Oron Ben Zvi",
-        "he": "נוצר ע\"י אורון בן צבי "
+        "he": "× ××¦×¨ ×¢\"× ×××¨×× ×× ×¦×× "
       }
     },
     {
       "id": "double-web",
       "name": {
         "en": "Double",
-        "he": "דאבל"
+        "he": "××××"
       },
       "description": {
         "en": "Play Double agains bots",
-        "he": "שחקו דאבל וכסחו את הבוט"
+        "he": "×©××§× ×××× ×××¡×× ××ª ××××"
       },
       "category": "web",
       "subcategory": "fun",
@@ -105,18 +105,18 @@
       "downloadUrl": "https://aesthetic-panda-2a6de9.netlify.app/",
       "madeBy": {
         "en": "Made by Gil Sela",
-        "he": "נוצר ע\"י גיל סלע"
+        "he": "× ××¦×¨ ×¢\"× ××× ×¡××¢"
       }
     },
     {
       "id": "soduku-web",
       "name": {
         "en": "Soduken",
-        "he": "סודוקו"
+        "he": "×¡××××§×"
       },
       "description": {
         "en": "A cozy Sudoku puzzle game",
-        "he": "משחק סודוקו רגוע ומרגיע"
+        "he": "××©××§ ×¡××××§× ×¨×××¢ ×××¨×××¢"
       },
       "category": "web",
       "subcategory": "fun",
@@ -124,18 +124,18 @@
       "downloadUrl": "https://soduken.vercel.app/",
       "madeBy": {
         "en": "Made by Oron Ben Zvi",
-        "he": "נוצר ע\"י אורון בן צבי"
+        "he": "× ××¦×¨ ×¢\"× ×××¨×× ×× ×¦××"
       }
     },
     {
       "id": "jumping-jack-web",
       "name": {
         "en": "Jumping Jack",
-        "he": "ג׳ק הקופץ"
+        "he": "××³×§ ××§××¤×¥"
       },
       "description": {
         "en": "Jump as much as you can",
-        "he": "קיפצו הכי גבוה שתוכלו"
+        "he": "×§××¤×¦× ××× ×××× ×©×ª××××"
       },
       "category": "web",
       "subcategory": "fun",
@@ -143,18 +143,18 @@
       "downloadUrl": "https://oronbz.itch.io/jumping-jack",
       "madeBy": {
         "en": "Made by Oron Ben Zvi & David Chen",
-        "he": "נוצר ע\"י אורון בן צבי ודוד חן"
+        "he": "× ××¦×¨ ×¢\"× ×××¨×× ×× ×¦×× ×××× ××"
       }
     },
     {
       "id": "popit-web",
       "name": {
         "en": "Pop It",
-        "he": "פופיט"
+        "he": "×¤××¤××"
       },
       "description": {
         "en": "Pop all bubbles",
-        "he": "פוצצו את כל הבועות"
+        "he": "×¤××¦×¦× ××ª ×× ××××¢××ª"
       },
       "category": "web",
       "subcategory": "fun",
@@ -162,8 +162,24 @@
       "downloadUrl": "https://oronbz.itch.io/pop-it",
       "madeBy": {
         "en": "Made by Oron Ben Zvi",
-        "he": "נוצר ע\"י אורון בן צבי "
+        "he": "× ××¦×¨ ×¢\"× ×××¨×× ×× ×¦×× "
       }
+    },
+    {
+      "id": "-web",
+      "name": {
+        "en": "בדיקה טל",
+        "he": "בדיקה טל"
+      },
+      "description": {
+        "en": "בודקת את ה pr",
+        "he": "בודקת את ה pr"
+      },
+      "category": "web",
+      "subcategory": "fun",
+      "icon": "bubble-pop",
+      "downloadUrl": "http://www.google.com",
+      "madeBy": "נוצר ע״י טל"
     }
   ]
 }
