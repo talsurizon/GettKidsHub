@@ -3,6 +3,13 @@ import { Link } from 'react-router-dom';
 
 const categories = [
   {
+    id: 'web',
+    emoji: '🌐',
+    color: 'from-orange-500 to-amber-600',
+    hoverColor: 'hover:from-orange-400 hover:to-amber-500',
+    shadow: 'hover:shadow-orange-500/30',
+  },
+  {
     id: 'android',
     emoji: '🤖',
     color: 'from-emerald-500 to-green-600',
@@ -15,13 +22,6 @@ const categories = [
     color: 'from-blue-500 to-indigo-600',
     hoverColor: 'hover:from-blue-400 hover:to-indigo-500',
     shadow: 'hover:shadow-blue-500/30',
-  },
-  {
-    id: 'web',
-    emoji: '🌐',
-    color: 'from-orange-500 to-amber-600',
-    hoverColor: 'hover:from-orange-400 hover:to-amber-500',
-    shadow: 'hover:shadow-orange-500/30',
   },
 ];
 

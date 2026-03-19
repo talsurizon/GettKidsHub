@@ -1,6 +1,38 @@
 {
   "apps": [
     {
+      "id": "math-kids-android",
+      "name": {
+        "en": "Math for kids",
+        "he": "לומדים חשבון"
+      },
+      "description": {
+        "en": "Interactive math learning for kids",
+        "he": "למידת חשבון באופן אינטראקטיבי"
+      },
+      "category": "android",
+      "subcategory": "educational",
+      "icon": "math-adventure",
+      "downloadUrl": "/apps/android/MathForKids.apk",
+      "madeBy": "Made by Tal Surizon"
+    },
+    {
+      "id": "puzzlella-android",
+      "name": {
+        "en": "Puzzlella",
+        "he": "פאזלה"
+      },
+      "description": {
+        "en": "Solve puzzles from your own photos",
+        "he": "הרכיבו פאזלים מהתמונות שלכם"
+      },
+      "category": "android",
+      "subcategory": "fun",
+      "icon": "puzzle-quest",
+      "downloadUrl": "/apps/android/puzzlella.apk",
+      "madeBy": "Made by Tal Surizon"
+    },
+    {
       "id": "math-kids-web",
       "name": {
         "en": "Math for all",
