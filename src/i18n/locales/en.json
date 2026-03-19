@@ -8,7 +8,8 @@
     "chooseCategory": "Choose a category to explore:",
     "android": "Android",
     "ios": "iOS",
-    "web": "Web"
+    "web": "Web",
+    "addApp": "Add New App"
   },
   "category": {
     "fun": "Fun 🎮",
@@ -17,6 +18,26 @@
     "open": "Open",
     "backHome": "Back to Home",
     "noApps": "No apps available yet. Check back soon!"
+  },
+  "addApp": {
+    "title": "Add New App",
+    "appName": "App Name",
+    "appNamePlaceholder": "e.g. My Cool App",
+    "description": "Description",
+    "descriptionPlaceholder": "What does this app do?",
+    "madeBy": "Made By",
+    "madeByPlaceholder": "e.g. Made by John",
+    "subcategory": "Category",
+    "fun": "Fun 🎮",
+    "educational": "Educational 📚",
+    "appType": "App Type",
+    "url": "Web URL",
+    "file": "App File",
+    "submit": "Submit App",
+    "submitting": "Submitting…",
+    "processing": "Your upload is being processed!",
+    "processingDesc": "A pull request has been created and is waiting for approval. Your app will appear once it's approved.",
+    "backHome": "Back to Home"
   },
   "footer": {
     "madeWith": "Made with ❤️ for GettKids"

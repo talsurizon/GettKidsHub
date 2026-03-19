@@ -8,7 +8,8 @@
     "chooseCategory": "בחרו קטגוריה לחקירה:",
     "android": "אנדרואיד",
     "ios": "iOS",
-    "web": "אינטרנט"
+    "web": "אינטרנט",
+    "addApp": "הוספת אפליקציה"
   },
   "category": {
     "fun": "כיף 🎮",
@@ -17,6 +18,26 @@
     "open": "פתיחה",
     "backHome": "חזרה לדף הבית",
     "noApps": "אין עדיין אפליקציות זמינות. בדקו שוב בקרוב!"
+  },
+  "addApp": {
+    "title": "הוספת אפליקציה",
+    "appName": "שם האפליקציה",
+    "appNamePlaceholder": "לדוגמה: האפליקציה שלי",
+    "description": "תיאור",
+    "descriptionPlaceholder": "מה האפליקציה עושה?",
+    "madeBy": "נוצר על ידי",
+    "madeByPlaceholder": "לדוגמה: נוצר ע\"י יוחנן",
+    "subcategory": "קטגוריה",
+    "fun": "כיף 🎮",
+    "educational": "לימודי 📚",
+    "appType": "סוג אפליקציה",
+    "url": "כתובת אינטרנט",
+    "file": "קובץ אפליקציה",
+    "submit": "שליחה",
+    "submitting": "שולח…",
+    "processing": "ההעלאה שלכם בתהליך עיבוד!",
+    "processingDesc": "בקשת משיכה נוצרה וממתינה לאישור. האפליקציה תופיע לאחר האישור.",
+    "backHome": "חזרה לדף הבית"
   },
   "footer": {
     "madeWith": "נוצר באהבה ❤️ עבור GettKids"
