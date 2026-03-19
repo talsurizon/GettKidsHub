@@ -2,6 +2,7 @@ import { HashRouter, Routes, Route } from 'react-router-dom';
 import Layout from './components/Layout';
 import Home from './pages/Home';
 import CategoryPage from './pages/CategoryPage';
+import AddApp from './pages/AddApp';
 import NotFound from './pages/NotFound';
 
 export default function App() {
@@ -11,6 +12,7 @@ export default function App() {
         <Route element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="category/:platform" element={<CategoryPage />} />
+          <Route path="add-app" element={<AddApp />} />
           <Route path="*" element={<NotFound />} />
         </Route>
       </Routes>
