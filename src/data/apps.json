@@ -164,6 +164,22 @@
         "en": "Made by Oron Ben Zvi",
         "he": "נוצר ע\"י אורון בן צבי "
       }
+    },
+    {
+      "id": "test-web",
+      "name": {
+        "en": "test",
+        "he": "test"
+      },
+      "description": {
+        "en": "זוהי הבדיקה שלי",
+        "he": "זוהי הבדיקה שלי"
+      },
+      "category": "web",
+      "subcategory": "fun",
+      "icon": "bubble-pop",
+      "downloadUrl": "http://www.google.com",
+      "madeBy": "נוצר ע״י טל"
     }
   ]
 }
