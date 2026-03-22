@@ -164,6 +164,22 @@
         "en": "Made by Oron Ben Zvi",
         "he": "נוצר ע\"י אורון בן צבי "
       }
+    },
+    {
+      "id": "coloring-app-web",
+      "name": {
+        "en": "Color by number",
+        "he": "צביעה לפי מספרים"
+      },
+      "description": {
+        "en": "Upload a photo - select level - Paint it!",
+        "he": "העלו תמונה - בחרו רמה - התחילו לצבוע!"
+      },
+      "category": "web",
+      "subcategory": "fun",
+      "icon": "color-splash",
+      "downloadUrl": "https://gilgol.github.io/coloring-app/",
+      "madeBy": "Made by Gil Goldenberg"
     }
   ]
 }
