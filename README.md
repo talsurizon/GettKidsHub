@@ -19,7 +19,8 @@ npm run dev
 ```
 
 Open [http://localhost:5173/GettKidsHub/](http://localhost:5173/GettKidsHub/)
-**Official URL: [https://talsurizon.github.io/GettKidsHub/]**
+
+**Official URL: https://talsurizon.github.io/GettKidsHub/**
 
 ## Adding a New App
 
